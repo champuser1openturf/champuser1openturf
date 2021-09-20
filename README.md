@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ujjwal 
-- 👀 I’m interested Node Js,React,System Design,Docker,Kubernetes
+- 👀 I’m interested in Node Js,React,System Design,Docker,Kubernetes
 - 🌱 I’m currently learning in's and out's of software development.
 - 💞️ I’m looking to collaborate on open source
 - 📫 How to reach me ...
